@@ -59,8 +59,8 @@ Ce projet est une application **Serveur + Client** et ne peut pas être exécut�
 
     ```bash
     # Option recommandée : Donner l'écriture au groupe du serveur (ex: www-data)
-    sudo chown :www-data users.csv
-    sudo chmod 664 users.csv
+    chown :www-data users.csv
+    chmod 664 users.csv
     
     # Ou la méthode la plus simple mais moins sécurisée
     # chmod 666 users.csv
