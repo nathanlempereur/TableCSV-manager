@@ -44,7 +44,7 @@ Ce projet est une application **Serveur + Client** et ne peut pas être exécut�
     * Placez `index.php` et `users.csv` dans le répertoire racine de votre hôte virtuel ou de votre serveur web (par exemple, `/var/www/html/`).
 
 3.  **Créer le Fichier de Données :**
-    * Créez un fichier nommé **`users.csv`** dans le même répertoire.
+    * Créez un fichier nommé **`users.csv`** dans le même répertoire ou prenez celui déja présent.
 
     ```csv
     Nom,Prénom,Email
