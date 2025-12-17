@@ -6,6 +6,8 @@ Ce projet est une solution légère et efficace pour éditer le contenu de petit
 
 Il est idéal pour les environnements de petite production ou les projets de formation (BTS SIO/SISR) nécessitant une gestion simple de données tabulaires sans base de données SQL.
 
+<img width="1886" height="889" alt="image" src="https://github.com/user-attachments/assets/846bce57-9abf-4ff0-b6e5-35973363be8d" />
+
 ---
 
 ## Fonctionnalités :
