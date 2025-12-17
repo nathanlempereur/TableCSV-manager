@@ -1,6 +1,6 @@
 # TableCSV-manager
 
-## 📝 Éditeur de Fichier CSV en Temps Réel avec Sauvegarde Automatique
+## Éditeur de Fichier CSV en Temps Réel avec Sauvegarde Automatique
 
 Ce projet est une solution légère et efficace pour éditer le contenu de petits fichiers CSV directement via une interface web, avec une fonctionnalité de sauvegarde automatique côté serveur (PHP).
 
